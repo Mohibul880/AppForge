@@ -6,7 +6,7 @@ import { IoLogoLinkedin } from 'react-icons/io';
 import { FaFacebook } from 'react-icons/fa';
 const Footer = () => {
    return (
-      <div className="bg-[#001931] py-10">
+      <div className="bg-[#926de7] py-10">
          <footer className="bg-[#001529] text-slate-300 py-12 border-t border-slate-800">
             <div className="container mx-auto px-6">
                <div className="flex flex-col md:flex-row justify-between items-start gap-8 lg:gap-16">
@@ -18,7 +18,7 @@ const Footer = () => {
                         </h2>
                      </div>
                      <p className="text-sm leading-relaxed max-w-xs text-slate-400">
-                              Explore powerful tools and next-level applications. Designed to boost productivity and creativity.
+                           Explore powerful tools and next-level applications. Designed to boost productivity and creativity.
                      </p>
                   </div>
 
