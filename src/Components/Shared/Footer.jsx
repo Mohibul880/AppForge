@@ -14,13 +14,11 @@ const Footer = () => {
                      <div className="flex items-center gap-2">
                         <img src={footerLogo} className="w-7" alt="" />
                         <h2 className="text-2xl font-bold tracking-tight text-white uppercase">
-                           AppNexus
+                           AppForge
                         </h2>
                      </div>
                      <p className="text-sm leading-relaxed max-w-xs text-slate-400">
-                        The ultimate platform for discovering next-gen tools and
-                        applications. Empowering your digital workflow with
-                        excellence.
+                              Explore powerful tools and next-level applications. Designed to boost productivity and creativity.
                      </p>
                   </div>
 
