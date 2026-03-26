@@ -1,16 +1,24 @@
-# React + Vite
+🚀 AppForge – Smart App Management Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+AppForge is a modern, clean, and responsive client-side web application designed to explore and manage app data efficiently. Built as part of a frontend project, it allows users to browse apps, perform real-time searches, and simulate app installation using local storage.
 
-Currently, two official plugins are available:
+🛠️ Technologies Used
+React.js – For building dynamic and reusable UI components
+Tailwind CSS – Utility-first framework for responsive and clean design
+daisyUI – Pre-styled Tailwind components for faster UI development
+React Router DOM (v6) – For smooth navigation and dynamic routing
+React Toastify – For elegant, non-blocking notifications
+Recharts – For interactive and responsive data visualization
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✨ Key Features
+📱 1. All Apps & Live Search
+Real-time Filtering: Instantly filter apps with a case-insensitive search
+Smart Sorting: Sort apps by download count (High → Low / Low → High)
+📊 2. Detailed App Analytics
+App Insights: View detailed app information (Reviews, Downloads, Ratings)
+Interactive Charts: Visualize rating distribution using Recharts
+Dynamic Description: Cleanly formatted and optimized app descriptions
+🏗️ 3. UI & User Experience
+Active Navigation: Highlights current route in the navbar
+Smooth Loading: Seamless transitions during navigation and search
+Error Handling: Custom 404 page and “No App Found” feedback
