@@ -11,13 +11,16 @@ React Toastify – For elegant, non-blocking notifications
 Recharts – For interactive and responsive data visualization
 
 ✨ Key Features
+
 📱 1. All Apps & Live Search
 Real-time Filtering: Instantly filter apps with a case-insensitive search
 Smart Sorting: Sort apps by download count (High → Low / Low → High)
+
 📊 2. Detailed App Analytics
 App Insights: View detailed app information (Reviews, Downloads, Ratings)
 Interactive Charts: Visualize rating distribution using Recharts
 Dynamic Description: Cleanly formatted and optimized app descriptions
+
 🏗️ 3. UI & User Experience
 Active Navigation: Highlights current route in the navbar
 Smooth Loading: Seamless transitions during navigation and search
